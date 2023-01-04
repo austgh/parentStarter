@@ -1,0 +1,3 @@
+# Project exclude paths
+/gh-spring-boot-boot-autoconfigure/target/
+/gh-spring-boot-starter/target/
